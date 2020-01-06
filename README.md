@@ -1,2 +1,2 @@
-# DeepReinforcementLearning
-Deep Reinforcement learning Algorithims &amp; Implememntations
+# Q-Learning
+Implementation of Basic SARSA, Q-Learning & SARSAMAX algorithms on the OpenAI Gym Environments
